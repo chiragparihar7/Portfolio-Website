@@ -37,7 +37,7 @@ export default function About() {
           {/* Glassmorphism Card */}
           <div className="absolute bottom-6 left-6 backdrop-blur-lg bg-white/10 border border-white/20 p-6 rounded-xl shadow-lg">
             <h3 className="text-2xl font-bold">Frontend Developer</h3>
-            <p className="text-gray-300">ReactJS | Tailwind CSS | UI/UX</p>
+            <p className="text-gray-300">ReactJS | Tailwind CSS | JavaScript</p>
           </div>
         </div>
 

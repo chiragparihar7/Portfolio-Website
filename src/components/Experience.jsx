@@ -3,22 +3,22 @@ import { BriefcaseIcon } from "@heroicons/react/24/solid";
 export default function Experience() {
   const experiences = [
     {
+      role: "ReactJS Intern",
+      company: "CodeCrafters",
+      duration: "Fab 2025 - Present",
+      description:
+      "Worked on building reusable components, improving performance, and collaborating in a fast-paced Agile team environment.",
+    },
+    {
       role: "Frontend Developer",
-      company: "Tech Solutions",
-      duration: "2023 - Present",
+      company: "Aom Web Designer",
+      duration: "July 2024 - Fab 2025",
       description:
         "Created interactive, high-performance user interfaces with ReactJS, TailwindCSS, and API integrations, ensuring pixel-perfect designs.",
     },
     {
-      role: "ReactJS Intern",
-      company: "CodeCrafters",
-      duration: "2022 - 2023",
-      description:
-        "Worked on building reusable components, improving performance, and collaborating in a fast-paced Agile team environment.",
-    },
-    {
       role: "Web Development Trainee",
-      company: "SkillBoost Academy",
+      company: "Maruti Infotech",
       duration: "2021 - 2022",
       description:
         "Learned fundamentals of HTML, CSS, JavaScript, and deployed multiple responsive projects using GitHub Pages.",

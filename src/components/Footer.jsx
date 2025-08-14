@@ -40,8 +40,8 @@ export default function Footer() {
           <h3 className="text-xl font-semibold text-white mb-3">Contact</h3>
           <ul className="space-y-2">
             <li>Email: <a href="mailto:chiragparihar118@gmail.com" className="hover:text-white">chiragparihar118@gmail.com</a></li>
-            <li>Phone: <a href="tel:+911234567890" className="hover:text-white">+91 1234567890</a></li>
-            <li>Location: New Delhi, India</li>
+            <li>Phone: <a href="tel:+911234567890" className="hover:text-white">+91 8003155718</a></li>
+            <li>Location: Ahmedabad, India</li>
           </ul>
 
           {/* Social Icons */}

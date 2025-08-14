@@ -12,7 +12,7 @@ export default function Projects() {
     {
       title: "E-commerce App",
       desc: "A fully functional e-commerce store with product filtering, cart, and payment gateway.",
-      img: "https://images.unsplash.com/photo-1515165562835-c4c4c4b3e3b3?auto=format&fit=crop&w=800&q=80",
+      img: "https://images.unsplash.com/photo-1591439657848-9f4b9ce436b9?q=80&w=2004&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       link: "#",
       tech: ["ReactJS", "Redux", "Stripe"]
     },

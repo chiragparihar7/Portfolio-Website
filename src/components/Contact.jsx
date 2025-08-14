@@ -58,7 +58,7 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="font-semibold">Phone</h3>
-                <p>+91 1234567890</p>
+                <p>+91 8003155718</p>
               </div>
             </div>
 
@@ -68,7 +68,7 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="font-semibold">Location</h3>
-                <p>New Delhi, India</p>
+                <p>Ahmedabad, India</p>
               </div>
             </div>
           </div>
