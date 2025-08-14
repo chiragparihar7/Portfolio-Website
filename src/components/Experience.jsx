@@ -4,7 +4,7 @@ export default function Experience() {
   const experiences = [
     {
       role: "ReactJS Intern",
-      company: "CodeCrafters",
+      company: "Virtual Height IT Services Pvt. Ltd.",
       duration: "Fab 2025 - Present",
       description:
       "Worked on building reusable components, improving performance, and collaborating in a fast-paced Agile team environment.",
